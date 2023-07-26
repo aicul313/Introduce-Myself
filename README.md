@@ -18,3 +18,6 @@
 5. Food Website
   * HTML/CSS로 만들어봄
   * 좋아요 기능 탑재
+
+6. 이력서 샘플
+  * TAILWINDCSS로 이력서 샘플링
