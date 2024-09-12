@@ -1,4 +1,5 @@
-# 현지 작업물
+# 현지의 작은 작업물
+## Hyeonji's Petite Portfolio
 
 1. 자기소개 사이트
   * 제일 기본적인 틀을 HTML/CSS로 만들어봄
